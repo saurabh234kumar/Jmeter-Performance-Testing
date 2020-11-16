@@ -1,0 +1,501 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1605526783871,924,Amazon HomePage,200,OK,Amazon_Thread group 1-12,text,true,,95659,391,30,30,https://www.amazon.com/,508,0,250
+1605526783921,1029,Amazon HomePage,200,OK,Amazon_Thread group 1-13,text,true,,99576,391,33,33,https://www.amazon.com/,457,0,199
+1605526783516,1435,Amazon HomePage,200,OK,Amazon_Thread group 1-5,text,true,,102655,391,33,33,https://www.amazon.com/,862,0,605
+1605526783470,1482,Amazon HomePage,200,OK,Amazon_Thread group 1-4,text,true,,97837,391,33,33,https://www.amazon.com/,909,0,651
+1605526783675,1280,Amazon HomePage,200,OK,Amazon_Thread group 1-8,text,true,,95482,391,33,33,https://www.amazon.com/,704,0,445
+1605526783674,1282,Amazon HomePage,200,OK,Amazon_Thread group 1-7,text,true,,95745,391,33,33,https://www.amazon.com/,704,0,446
+1605526783433,1524,Amazon HomePage,200,OK,Amazon_Thread group 1-1,text,true,,98329,391,33,33,https://www.amazon.com/,945,0,687
+1605526784027,930,Amazon HomePage,200,OK,Amazon_Thread group 1-15,text,true,,98329,391,33,33,https://www.amazon.com/,351,0,94
+1605526783572,1389,Amazon HomePage,200,OK,Amazon_Thread group 1-6,text,true,,98264,391,33,33,https://www.amazon.com/,807,0,549
+1605526783433,1529,Amazon HomePage,200,OK,Amazon_Thread group 1-3,text,true,,105810,391,33,33,https://www.amazon.com/,945,0,688
+1605526783767,1195,Amazon HomePage,200,OK,Amazon_Thread group 1-10,text,true,,103878,391,33,33,https://www.amazon.com/,611,0,356
+1605526784177,873,Amazon HomePage,200,OK,Amazon_Thread group 1-18,text,true,,103452,391,35,35,https://www.amazon.com/,286,0,32
+1605526784220,864,Amazon HomePage,200,OK,Amazon_Thread group 1-19,text,true,,98450,391,36,36,https://www.amazon.com/,280,0,33
+1605526784270,858,Amazon HomePage,200,OK,Amazon_Thread group 1-20,text,true,,98881,391,37,37,https://www.amazon.com/,273,0,33
+1605526784420,888,Amazon HomePage,200,OK,Amazon_Thread group 1-23,text,true,,95404,391,40,40,https://www.amazon.com/,302,0,47
+1605526783719,1620,Amazon HomePage,200,OK,Amazon_Thread group 1-9,text,true,,96258,391,41,41,https://www.amazon.com/,1040,0,401
+1605526783433,1906,Amazon HomePage,200,OK,Amazon_Thread group 1-2,text,true,,96563,391,41,41,https://www.amazon.com/,1320,0,687
+1605526784469,870,Amazon HomePage,200,OK,Amazon_Thread group 1-24,text,true,,97455,391,41,41,https://www.amazon.com/,281,0,34
+1605526784520,866,Amazon HomePage,200,OK,Amazon_Thread group 1-25,text,true,,98525,391,42,42,https://www.amazon.com/,281,0,34
+1605526784121,1277,Amazon HomePage,200,OK,Amazon_Thread group 1-17,text,true,,103808,391,42,42,https://www.amazon.com/,302,0,61
+1605526784571,874,Amazon HomePage,200,OK,Amazon_Thread group 1-26,text,true,,104450,391,43,43,https://www.amazon.com/,286,0,42
+1605526784621,864,Amazon HomePage,200,OK,Amazon_Thread group 1-27,text,true,,105424,391,44,44,https://www.amazon.com/,276,0,35
+1605526784319,1170,Amazon HomePage,200,OK,Amazon_Thread group 1-21,text,true,,98739,391,44,44,https://www.amazon.com/,283,0,37
+1605526783822,1715,Amazon HomePage,200,OK,Amazon_Thread group 1-11,text,true,,106366,391,45,45,https://www.amazon.com/,557,0,298
+1605526784670,911,Amazon HomePage,200,OK,Amazon_Thread group 1-28,text,true,,98011,391,46,46,https://www.amazon.com/,295,0,40
+1605526784770,892,Amazon HomePage,200,OK,Amazon_Thread group 1-30,text,true,,99638,391,47,47,https://www.amazon.com/,308,0,59
+1605526784816,863,Amazon HomePage,200,OK,Amazon_Thread group 1-31,text,true,,98877,391,48,48,https://www.amazon.com/,276,0,28
+1605526784067,1666,Amazon HomePage,200,OK,Amazon_Thread group 1-16,text,true,,95870,391,49,49,https://www.amazon.com/,311,0,53
+1605526784870,874,Amazon HomePage,200,OK,Amazon_Thread group 1-32,text,true,,100773,391,49,49,https://www.amazon.com/,287,0,38
+1605526784916,882,Amazon HomePage,200,OK,Amazon_Thread group 1-33,text,true,,105198,391,50,50,https://www.amazon.com/,298,0,51
+1605526783971,1964,Amazon HomePage,200,OK,Amazon_Thread group 1-14,text,true,,97611,391,53,53,https://www.amazon.com/,408,0,149
+1605526784959,1001,Today's Deals,200,OK,Amazon_Thread group 1-4,text,true,,109681,465,53,53,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,420,0,41
+1605526784717,1264,Amazon HomePage,200,OK,Amazon_Thread group 1-29,text,true,,105224,391,54,54,https://www.amazon.com/,675,0,35
+1605526784958,1058,Today's Deals,200,OK,Amazon_Thread group 1-8,text,true,,107358,465,54,54,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,421,0,42
+1605526784800,1245,Today's Deals,200,OK,Amazon_Thread group 1-12,text,true,,109693,465,55,55,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,419,0,35
+1605526784962,1121,Today's Deals,200,OK,Amazon_Thread group 1-6,text,true,,109117,465,56,56,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,418,0,42
+1605526784964,1124,Today's Deals,200,OK,Amazon_Thread group 1-10,text,true,,107043,465,56,56,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,415,0,41
+1605526785220,880,Amazon HomePage,200,OK,Amazon_Thread group 1-39,text,true,,100408,391,56,56,https://www.amazon.com/,291,0,37
+1605526784970,1144,Amazon HomePage,200,OK,Amazon_Thread group 1-34,text,true,,98189,391,56,56,https://www.amazon.com/,686,0,45
+1605526785270,875,Amazon HomePage,200,OK,Amazon_Thread group 1-40,text,true,,96843,391,57,57,https://www.amazon.com/,288,0,33
+1605526785085,1068,Today's Deals,200,OK,Amazon_Thread group 1-19,text,true,,106844,465,57,57,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,423,0,35
+1605526784959,1373,Today's Deals,200,OK,Amazon_Thread group 1-15,text,true,,106397,465,61,61,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,398,0,44
+1605526785470,870,Amazon HomePage,200,OK,Amazon_Thread group 1-44,text,true,,97302,391,61,61,https://www.amazon.com/,285,0,40
+1605526785340,1008,Today's Deals,200,OK,Amazon_Thread group 1-2,text,true,,109061,465,61,61,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,426,0,54
+1605526785340,1024,Today's Deals,200,OK,Amazon_Thread group 1-9,text,true,,109583,465,61,61,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,426,0,51
+1605526784952,1422,Today's Deals,200,OK,Amazon_Thread group 1-13,text,true,,122528,465,62,62,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,833,0,45
+1605526785387,992,Today's Deals,200,OK,Amazon_Thread group 1-25,text,true,,106359,465,62,62,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,410,0,38
+1605526785020,1362,Amazon HomePage,200,OK,Amazon_Thread group 1-35,text,true,,95001,391,62,62,https://www.amazon.com/,861,0,30
+1605526785515,883,Amazon HomePage,200,OK,Amazon_Thread group 1-45,text,true,,98929,391,62,62,https://www.amazon.com/,297,0,52
+1605526785116,1317,Amazon HomePage,200,OK,Amazon_Thread group 1-37,text,true,,106269,391,63,63,https://www.amazon.com/,341,0,98
+1605526785570,863,Amazon HomePage,200,OK,Amazon_Thread group 1-46,text,true,,98440,391,63,63,https://www.amazon.com/,280,0,30
+1605526785538,992,Today's Deals,200,OK,Amazon_Thread group 1-11,text,true,,107198,465,65,65,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,406,0,44
+1605526785070,1465,Amazon HomePage,200,OK,Amazon_Thread group 1-36,text,true,,98129,391,65,65,https://www.amazon.com/,310,0,50
+1605526784959,1578,Today's Deals,200,OK,Amazon_Thread group 1-7,text,true,,103393,465,65,65,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,420,0,41
+1605526785670,882,Amazon HomePage,200,OK,Amazon_Thread group 1-48,text,true,,98668,391,65,65,https://www.amazon.com/,297,0,54
+1605526785129,1462,Today's Deals,200,OK,Amazon_Thread group 1-20,text,true,,114627,465,66,66,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,873,0,96
+1605526785723,875,Amazon HomePage,200,OK,Amazon_Thread group 1-49,text,true,,106795,391,66,66,https://www.amazon.com/,288,0,44
+1605526785381,1278,Amazon HomePage,200,OK,Amazon_Thread group 1-42,text,true,,98474,391,67,67,https://www.amazon.com/,299,0,39
+1605526785819,860,Amazon HomePage,200,OK,Amazon_Thread group 1-51,text,true,,99306,391,68,68,https://www.amazon.com/,274,0,36
+1605526785447,1233,Today's Deals,200,OK,Amazon_Thread group 1-26,text,true,,107461,465,68,68,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,454,0,37
+1605526785745,970,Today's Deals,200,OK,Amazon_Thread group 1-32,text,true,,110536,465,68,68,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,384,0,40
+1605526785866,872,Amazon HomePage,200,OK,Amazon_Thread group 1-52,text,true,,96346,391,69,69,https://www.amazon.com/,287,0,38
+1605526785399,1365,Today's Deals,200,OK,Amazon_Thread group 1-17,text,true,,115378,465,70,70,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,774,0,39
+1605526785734,1053,Today's Deals,200,OK,Amazon_Thread group 1-16,text,true,,106941,465,70,70,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,395,0,40
+1605526784366,2427,Amazon HomePage,200,OK,Amazon_Thread group 1-22,text,true,,103729,391,70,70,https://www.amazon.com/,869,0,42
+1605526785916,883,Amazon HomePage,200,OK,Amazon_Thread group 1-53,text,true,,103591,391,70,70,https://www.amazon.com/,296,0,49
+1605526785486,1340,Today's Deals,200,OK,Amazon_Thread group 1-27,text,true,,114874,465,71,71,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,753,0,38
+1605526785970,875,Amazon HomePage,200,OK,Amazon_Thread group 1-54,text,true,,105442,391,71,71,https://www.amazon.com/,288,0,41
+1605526785170,1693,Amazon HomePage,200,OK,Amazon_Thread group 1-38,text,true,,104773,391,71,71,https://www.amazon.com/,320,0,71
+1605526785489,1379,Today's Deals,200,OK,Amazon_Thread group 1-21,text,true,,107338,465,71,71,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,397,0,35
+1605526785615,1263,Amazon HomePage,200,OK,Amazon_Thread group 1-47,text,true,,103757,391,72,72,https://www.amazon.com/,286,0,41
+1605526784960,1930,Today's Deals,200,OK,Amazon_Thread group 1-1,text,true,,114706,465,72,72,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,1343,0,43
+1605526786020,872,Amazon HomePage,200,OK,Amazon_Thread group 1-55,text,true,,100247,391,72,72,https://www.amazon.com/,283,0,42
+1605526784964,1941,Today's Deals,200,OK,Amazon_Thread group 1-3,text,true,,114181,465,72,72,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,766,0,42
+1605526784954,1976,Today's Deals,200,OK,Amazon_Thread group 1-5,text,true,,109774,465,73,73,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,425,0,43
+1605526786070,879,Amazon HomePage,200,OK,Amazon_Thread group 1-56,text,true,,96521,391,73,73,https://www.amazon.com/,294,0,45
+1605526785583,1383,Today's Deals,200,OK,Amazon_Thread group 1-28,text,true,,115591,465,73,73,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,795,0,32
+1605526785937,1029,Today's Deals,200,OK,Amazon_Thread group 1-14,text,true,,109816,465,74,74,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,439,0,52
+1605526786469,498,Amazon HomePage,200,OK,Amazon_Thread group 1-64,text,true,,99669,391,74,74,https://www.amazon.com/,295,0,46
+1605526786118,886,Amazon HomePage,200,OK,Amazon_Thread group 1-57,text,true,,99879,391,74,74,https://www.amazon.com/,297,0,58
+1605526786169,858,Amazon HomePage,200,OK,Amazon_Thread group 1-58,text,true,,97532,391,75,75,https://www.amazon.com/,281,0,30
+1605526785961,1088,Cart Page,200,OK,Amazon_Thread group 1-4,text,true,,78379,427,75,75,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,362,0,39
+1605526785680,1371,Today's Deals,200,OK,Amazon_Thread group 1-31,text,true,,114052,465,75,75,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,770,0,53
+1605526786047,1016,Cart Page,200,OK,Amazon_Thread group 1-12,text,true,,77747,427,75,75,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,374,0,41
+1605526785420,1643,Amazon HomePage,200,OK,Amazon_Thread group 1-43,text,true,,101620,391,75,75,https://www.amazon.com/,275,0,38
+1605526786017,1049,Cart Page,200,OK,Amazon_Thread group 1-8,text,true,,79145,427,75,75,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,351,0,38
+1605526786089,1015,Cart Page,200,OK,Amazon_Thread group 1-10,text,true,,73874,427,76,76,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,361,0,40
+1605526786102,1009,Today's Deals,200,OK,Amazon_Thread group 1-39,text,true,,106405,465,76,76,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,411,0,38
+1605526785320,1861,Amazon HomePage,200,OK,Amazon_Thread group 1-41,text,true,,97798,391,78,78,https://www.amazon.com/,297,0,57
+1605526785340,1867,Today's Deals,200,OK,Amazon_Thread group 1-24,text,true,,107046,465,78,78,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,498,0,51
+1605526786154,1057,Cart Page,200,OK,Amazon_Thread group 1-19,text,true,,74438,427,78,78,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,363,0,42
+1605526786420,869,Amazon HomePage,200,OK,Amazon_Thread group 1-63,text,true,,97309,391,80,80,https://www.amazon.com/,285,0,40
+1605526785309,1994,Today's Deals,200,OK,Amazon_Thread group 1-23,text,true,,109592,465,80,80,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,433,0,33
+1605526786364,970,Cart Page,200,OK,Amazon_Thread group 1-9,text,true,,79077,427,81,81,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,356,0,41
+1605526786332,1027,Cart Page,200,OK,Amazon_Thread group 1-15,text,true,,78488,427,81,81,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,373,0,58
+1605526785799,1564,Today's Deals,200,OK,Amazon_Thread group 1-33,text,true,,109520,465,81,81,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,978,0,36
+1605526786379,1002,Cart Page,200,OK,Amazon_Thread group 1-25,text,true,,76142,427,82,82,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,353,0,38
+1605526785982,1400,Today's Deals,200,OK,Amazon_Thread group 1-29,text,true,,114387,465,82,82,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,812,0,41
+1605526786399,1024,Today's Deals,200,OK,Amazon_Thread group 1-45,text,true,,107270,465,83,83,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,428,0,52
+1605526786567,866,Amazon HomePage,200,OK,Amazon_Thread group 1-66,text,true,,100488,391,83,83,https://www.amazon.com/,280,0,37
+1605526786434,1037,Today's Deals,200,OK,Amazon_Thread group 1-46,text,true,,109543,465,84,84,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,450,0,39
+1605526786115,1411,Today's Deals,200,OK,Amazon_Thread group 1-34,text,true,,106762,465,85,85,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,416,0,57
+1605526785770,1759,Amazon HomePage,200,OK,Amazon_Thread group 1-50,text,true,,95598,391,85,85,https://www.amazon.com/,284,0,29
+1605526786434,1100,Today's Deals,200,OK,Amazon_Thread group 1-37,text,true,,109223,465,85,85,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,448,0,38
+1605526786554,983,Today's Deals,200,OK,Amazon_Thread group 1-48,text,true,,109013,465,85,85,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,393,0,37
+1605526786538,1025,Cart Page,200,OK,Amazon_Thread group 1-7,text,true,,76032,427,85,85,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,355,0,41
+1605526786320,1271,Amazon HomePage,200,OK,Amazon_Thread group 1-61,text,true,,104331,391,86,86,https://www.amazon.com/,686,0,52
+1605526786719,877,Amazon HomePage,200,OK,Amazon_Thread group 1-69,text,true,,96939,391,86,86,https://www.amazon.com/,291,0,40
+1605526786349,1276,Cart Page,200,OK,Amazon_Thread group 1-2,text,true,,77231,427,87,87,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,356,0,45
+1605526785051,2576,Today's Deals,200,OK,Amazon_Thread group 1-18,text,true,,109085,465,87,87,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,1015,0,46
+1605526786765,864,Amazon HomePage,200,OK,Amazon_Thread group 1-70,text,true,,99007,391,87,87,https://www.amazon.com/,283,0,34
+1605526786591,1052,Cart Page,200,OK,Amazon_Thread group 1-20,text,true,,75165,427,87,87,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,349,0,40
+1605526786369,1333,Amazon HomePage,200,OK,Amazon_Thread group 1-62,text,true,,104238,391,88,88,https://www.amazon.com/,357,0,39
+1605526786817,903,Amazon HomePage,200,OK,Amazon_Thread group 1-71,text,true,,98037,391,89,89,https://www.amazon.com/,318,0,45
+1605526786270,1453,Amazon HomePage,200,OK,Amazon_Thread group 1-60,text,true,,97829,391,89,89,https://www.amazon.com/,283,0,38
+1605526786869,861,Amazon HomePage,200,OK,Amazon_Thread group 1-72,text,true,,100154,391,89,89,https://www.amazon.com/,274,0,32
+1605526786340,1396,Today's Deals,200,OK,Amazon_Thread group 1-44,text,true,,106516,465,89,89,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,415,0,54
+1605526786374,1361,Cart Page,200,OK,Amazon_Thread group 1-13,text,true,,75426,427,89,89,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,740,0,40
+1605526785664,2091,Today's Deals,200,OK,Amazon_Thread group 1-30,text,true,,110582,465,89,89,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,529,0,34
+1605526786382,1373,Today's Deals,200,OK,Amazon_Thread group 1-35,text,true,,113837,465,89,89,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,784,0,35
+1605526786765,1005,Cart Page,200,OK,Amazon_Thread group 1-17,text,true,,76828,427,90,90,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,348,0,34
+1605526786918,908,Amazon HomePage,200,OK,Amazon_Thread group 1-73,text,true,,100847,391,91,91,https://www.amazon.com/,326,0,39
+1605526786787,1044,Cart Page,200,OK,Amazon_Thread group 1-16,text,true,,79215,427,91,91,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,344,0,31
+1605526786659,1176,Today's Deals,200,OK,Amazon_Thread group 1-42,text,true,,106803,465,91,91,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,393,0,37
+1605526786864,1004,Today's Deals,200,OK,Amazon_Thread group 1-38,text,true,,109927,465,91,91,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,402,0,40
+1605526786905,977,Cart Page,200,OK,Amazon_Thread group 1-3,text,true,,79224,427,92,92,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,347,0,34
+1605526786536,1382,Today's Deals,200,OK,Amazon_Thread group 1-36,text,true,,113945,465,93,93,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,770,0,43
+1605526786869,1049,Cart Page,200,OK,Amazon_Thread group 1-21,text,true,,76353,427,93,93,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,350,0,32
+1605526786666,1262,Amazon HomePage,200,OK,Amazon_Thread group 1-68,text,true,,98514,391,93,93,https://www.amazon.com/,286,0,39
+1605526786146,1783,Today's Deals,200,OK,Amazon_Thread group 1-40,text,true,,114136,465,93,93,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,1201,0,44
+1605526786930,1004,Cart Page,200,OK,Amazon_Thread group 1-5,text,true,,78566,427,93,93,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,357,0,38
+1605526787067,871,Amazon HomePage,200,OK,Amazon_Thread group 1-76,text,true,,96031,391,93,93,https://www.amazon.com/,285,0,37
+1605526786967,985,Cart Page,200,OK,Amazon_Thread group 1-14,text,true,,75996,427,93,93,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,376,0,60
+1605526786966,990,Cart Page,200,OK,Amazon_Thread group 1-28,text,true,,78690,427,93,93,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,369,0,56
+1605526786950,1008,Today's Deals,200,OK,Amazon_Thread group 1-56,text,true,,109602,465,93,93,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,421,0,55
+1605526786516,1451,Amazon HomePage,200,OK,Amazon_Thread group 1-65,text,true,,95330,391,94,94,https://www.amazon.com/,281,0,40
+1605526786891,1085,Cart Page,200,OK,Amazon_Thread group 1-1,text,true,,76689,427,94,94,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,356,0,34
+1605526786827,1162,Cart Page,200,OK,Amazon_Thread group 1-27,text,true,,76840,427,94,94,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,363,0,48
+1605526787115,884,Amazon HomePage,200,OK,Amazon_Thread group 1-77,text,true,,97047,391,94,94,https://www.amazon.com/,296,0,46
+1605526786680,1357,Cart Page,200,OK,Amazon_Thread group 1-26,text,true,,78400,427,95,95,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,745,0,42
+1605526787166,876,Amazon HomePage,200,OK,Amazon_Thread group 1-78,text,true,,97295,391,95,95,https://www.amazon.com/,289,0,45
+1605526786715,1330,Cart Page,200,OK,Amazon_Thread group 1-32,text,true,,78326,427,95,95,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,355,0,33
+1605526786219,1838,Amazon HomePage,200,OK,Amazon_Thread group 1-59,text,true,,101750,391,95,95,https://www.amazon.com/,276,0,35
+1605526787028,1033,Today's Deals,200,OK,Amazon_Thread group 1-58,text,true,,109767,465,95,95,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,417,0,49
+1605526787217,872,Amazon HomePage,200,OK,Amazon_Thread group 1-79,text,true,,97723,391,96,96,https://www.amazon.com/,280,0,35
+1605526786598,1493,Today's Deals,200,OK,Amazon_Thread group 1-49,text,true,,112712,465,96,96,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,898,0,36
+1605526786739,1369,Today's Deals,200,OK,Amazon_Thread group 1-52,text,true,,106941,465,96,96,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,394,0,41
+1605526787064,1070,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-12,text,true,,74694,464,97,97,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,494,0,0
+1605526787270,869,Amazon HomePage,200,OK,Amazon_Thread group 1-80,text,true,,97909,391,97,97,https://www.amazon.com/,289,0,39
+1605526787104,1069,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-10,text,true,,71990,464,98,98,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,475,0,0
+1605526787183,1014,Today's Deals,200,OK,Amazon_Thread group 1-41,text,true,,108976,465,98,98,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,421,0,45
+1605526786083,2122,Cart Page,200,OK,Amazon_Thread group 1-6,text,true,,78933,427,98,98,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,966,0,47
+1605526787319,889,Amazon HomePage,200,OK,Amazon_Thread group 1-81,text,true,,104855,391,98,98,https://www.amazon.com/,303,0,54
+1605526786879,1330,Today's Deals,200,OK,Amazon_Thread group 1-47,text,true,,111633,465,98,98,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,743,0,32
+1605526787519,693,Amazon HomePage,200,OK,Amazon_Thread group 1-85,text,true,,97686,391,98,98,https://www.amazon.com/,301,0,58
+1605526787365,866,Amazon HomePage,200,OK,Amazon_Thread group 1-82,text,true,,106193,391,99,99,https://www.amazon.com/,282,0,38
+1605526787051,1188,Cart Page,200,OK,Amazon_Thread group 1-31,text,true,,77572,427,99,99,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,347,0,36
+1605526786846,1395,Today's Deals,200,OK,Amazon_Thread group 1-54,text,true,,112875,465,99,99,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,808,0,52
+1605526787208,1054,Cart Page,200,OK,Amazon_Thread group 1-24,text,true,,77512,427,99,99,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,351,0,39
+1605526786967,1298,Amazon HomePage,200,OK,Amazon_Thread group 1-74,text,true,,106047,391,99,99,https://www.amazon.com/,320,0,62
+1605526787303,966,Cart Page,200,OK,Amazon_Thread group 1-23,text,true,,79214,427,100,100,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,366,0,41
+1605526787212,1063,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-19,text,true,,73956,464,100,100,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,478,0,0
+1605526787417,874,Amazon HomePage,200,OK,Amazon_Thread group 1-83,text,true,,97847,391,100,100,https://www.amazon.com/,289,0,42
+1605526787465,881,Amazon HomePage,200,OK,Amazon_Thread group 1-84,text,true,,99187,391,100,100,https://www.amazon.com/,293,0,39
+1605526787364,1003,Cart Page,200,OK,Amazon_Thread group 1-33,text,true,,77564,427,100,100,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,356,0,46
+1605526787111,1280,Cart Page,200,OK,Amazon_Thread group 1-39,text,true,,77146,427,100,100,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,431,0,33
+1605526787335,1069,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-9,text,true,,73728,464,100,100,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,485,0,0
+1605526787423,1001,Cart Page,200,OK,Amazon_Thread group 1-45,text,true,,76913,427,100,100,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,349,0,39
+1605526787064,1389,Today's Deals,200,OK,Amazon_Thread group 1-43,text,true,,107531,465,100,100,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,782,0,39
+1605526786800,1659,Today's Deals,200,OK,Amazon_Thread group 1-53,text,true,,107137,465,100,100,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,489,0,33
+1605526787471,1034,Cart Page,200,OK,Amazon_Thread group 1-46,text,true,,75745,427,100,100,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,345,0,34
+1605526787360,1155,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-15,text,true,,74737,464,100,100,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,482,0,0
+1605526786794,1727,Today's Deals,200,OK,Amazon_Thread group 1-22,text,true,,111996,465,100,100,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,1139,0,33
+1605526786531,1999,Cart Page,200,OK,Amazon_Thread group 1-11,text,true,,76513,427,100,100,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,957,0,47
+1605526787535,998,Cart Page,200,OK,Amazon_Thread group 1-37,text,true,,74648,427,100,100,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,379,0,58
+1605526787537,1012,Cart Page,200,OK,Amazon_Thread group 1-48,text,true,,73875,427,100,100,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,380,0,57
+1605526787670,884,Amazon HomePage,200,OK,Amazon_Thread group 1-88,text,true,,98948,391,100,100,https://www.amazon.com/,299,0,42
+1605526787591,999,Today's Deals,200,OK,Amazon_Thread group 1-61,text,true,,108761,465,100,100,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,414,0,61
+1605526787627,1034,Cart Page,200,OK,Amazon_Thread group 1-18,text,true,,78995,427,100,100,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,361,0,53
+1605526787527,1135,Cart Page,200,OK,Amazon_Thread group 1-34,text,true,,77565,427,100,100,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,387,0,66
+1605526787716,947,Amazon HomePage,200,OK,Amazon_Thread group 1-89,text,true,,96970,391,100,100,https://www.amazon.com/,304,0,48
+1605526787382,1283,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-25,text,true,,72266,464,100,100,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,478,0,0
+1605526787050,1658,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-4,text,true,,73101,464,100,100,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,908,0,0
+1605526787625,1086,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-2,text,true,,73030,464,100,100,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,499,0,0
+1605526787755,974,Cart Page,200,OK,Amazon_Thread group 1-30,text,true,,76676,427,100,100,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,357,0,40
+1605526787564,1170,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-7,text,true,,67329,464,100,100,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,478,0,0
+1605526787723,1027,Today's Deals,200,OK,Amazon_Thread group 1-60,text,true,,109501,465,100,100,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,393,0,42
+1605526787630,1126,Today's Deals,200,OK,Amazon_Thread group 1-70,text,true,,109266,465,100,100,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,420,0,50
+1605526786968,1800,Today's Deals,200,OK,Amazon_Thread group 1-64,text,true,,115687,465,100,100,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,1210,0,56
+1605526787832,961,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-16,text,true,,73727,464,100,100,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,550,0,0
+1605526787569,1263,Amazon HomePage,200,OK,Amazon_Thread group 1-86,text,true,,106455,391,100,100,https://www.amazon.com/,671,0,39
+1605526787756,1108,Cart Page,200,OK,Amazon_Thread group 1-35,text,true,,75350,427,100,100,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,360,0,39
+1605526787956,929,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-28,text,true,,71769,464,100,100,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,441,0,0
+1605526788020,871,Amazon HomePage,200,OK,Amazon_Thread group 1-95,text,true,,102056,391,100,100,https://www.amazon.com/,285,0,40
+1605526787018,1874,Amazon HomePage,200,OK,Amazon_Thread group 1-75,text,true,,98044,391,100,100,https://www.amazon.com/,308,0,59
+1605526787066,1831,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-8,text,true,,71763,464,100,100,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,546,0,0
+1605526787919,996,Cart Page,200,OK,Amazon_Thread group 1-36,text,true,,78952,427,100,100,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,372,0,37
+1605526787721,1207,Today's Deals,200,OK,Amazon_Thread group 1-71,text,true,,107695,465,100,100,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,521,0,44
+1605526787929,1031,Today's Deals,200,OK,Amazon_Thread group 1-68,text,true,,109230,465,100,100,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,439,0,41
+1605526787869,1097,Cart Page,200,OK,Amazon_Thread group 1-38,text,true,,77270,427,100,100,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,373,0,60
+1605526787919,1057,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-21,text,true,,74160,464,100,100,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,472,0,0
+1605526787882,1126,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-3,text,true,,71747,464,100,100,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,453,0,0
+1605526787952,1064,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-14,text,true,,75539,464,100,100,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,480,0,0
+1605526787934,1090,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-5,text,true,,72046,464,100,100,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,457,0,0
+1605526788038,988,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-26,text,true,,71704,464,100,100,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,450,0,0
+1605526787434,1592,Today's Deals,200,OK,Amazon_Thread group 1-66,text,true,,113894,465,100,100,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,805,0,36
+1605526787976,1059,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-1,text,true,,71346,464,100,100,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,469,0,0
+1605526786619,2435,Amazon HomePage,200,OK,Amazon_Thread group 1-67,text,true,,105776,391,100,100,https://www.amazon.com/,875,0,36
+1605526787959,1105,Cart Page,200,OK,Amazon_Thread group 1-56,text,true,,76727,427,100,100,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,361,0,40
+1605526787989,1076,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-27,text,true,,72154,464,100,100,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,490,0,0
+1605526788092,990,Cart Page,200,OK,Amazon_Thread group 1-49,text,true,,75965,427,100,100,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,361,0,53
+1605526787929,1158,Cart Page,200,OK,Amazon_Thread group 1-40,text,true,,74318,427,100,100,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,354,0,40
+1605526787820,1270,Amazon HomePage,200,OK,Amazon_Thread group 1-91,text,true,,99064,391,100,100,https://www.amazon.com/,296,0,48
+1605526788090,1005,Today's Deals,200,OK,Amazon_Thread group 1-79,text,true,,109151,465,100,100,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,421,0,41
+1605526788108,1003,Cart Page,200,OK,Amazon_Thread group 1-52,text,true,,75501,427,100,100,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,358,0,44
+1605526787730,1385,Today's Deals,200,OK,Amazon_Thread group 1-72,text,true,,108965,465,100,100,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,800,0,51
+1605526788045,1085,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-32,text,true,,74129,464,100,100,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,499,0,0
+1605526787005,2136,Today's Deals,200,OK,Amazon_Thread group 1-57,text,true,,115134,465,100,100,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,767,0,58
+1605526787644,1548,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-20,text,true,,72116,464,100,100,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,572,0,0
+1605526787826,1380,Today's Deals,200,OK,Amazon_Thread group 1-73,text,true,,113557,465,100,100,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,794,0,46
+1605526787736,1479,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-13,text,true,,74037,464,100,100,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,499,0,0
+1605526787703,1517,Today's Deals,200,OK,Amazon_Thread group 1-62,text,true,,114453,465,100,100,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,731,0,43
+1605526786680,2541,Today's Deals,200,OK,Amazon_Thread group 1-51,text,true,,106986,465,100,100,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,978,0,43
+1605526787769,1455,Amazon HomePage,200,OK,Amazon_Thread group 1-90,text,true,,100108,391,100,100,https://www.amazon.com/,892,0,42
+1605526788213,1012,Today's Deals,200,OK,Amazon_Thread group 1-85,text,true,,109404,465,100,100,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,380,0,36
+1605526787966,1263,Amazon HomePage,200,OK,Amazon_Thread group 1-94,text,true,,99475,391,100,100,https://www.amazon.com/,695,0,37
+1605526788174,1067,SLP: Search listing Page,200,OK,Amazon_Thread group 1-10,text,true,,133624,422,100,100,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,241,0,0
+1605526787736,1530,Cart Page,200,OK,Amazon_Thread group 1-44,text,true,,73971,427,99,99,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,360,0,51
+1605526788242,1046,Cart Page,200,OK,Amazon_Thread group 1-54,text,true,,75772,427,99,99,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,367,0,58
+1605526787619,1675,Amazon HomePage,200,OK,Amazon_Thread group 1-87,text,true,,97981,391,99,99,https://www.amazon.com/,308,0,61
+1605526788266,1032,Today's Deals,200,OK,Amazon_Thread group 1-74,text,true,,109080,465,99,99,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,445,0,54
+1605526788217,1097,Amazon HomePage,200,OK,Amazon_Thread group 1-99,text,true,,100929,391,99,99,https://www.amazon.com/,313,0,41
+1605526787968,1351,Today's Deals,200,OK,Amazon_Thread group 1-65,text,true,,112013,465,99,99,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,764,0,33
+1605526788206,1120,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-6,text,true,,74083,464,99,99,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,523,0,0
+1605526787290,2043,Today's Deals,200,OK,Amazon_Thread group 1-63,text,true,,119714,465,99,99,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,1453,0,39
+1605526788269,1076,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-23,text,true,,73256,464,99,99,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,487,0,0
+1605526787939,1408,Today's Deals,200,OK,Amazon_Thread group 1-76,text,true,,113448,465,99,99,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,788,0,31
+1605526787529,1819,Today's Deals,200,OK,Amazon_Thread group 1-50,text,true,,113710,465,99,99,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,835,0,62
+1605526788346,1004,Today's Deals,200,OK,Amazon_Thread group 1-84,text,true,,109547,465,99,99,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,407,0,39
+1605526787771,1583,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-17,text,true,,74090,464,99,99,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,500,0,0
+1605526788275,1084,SLP: Search listing Page,200,OK,Amazon_Thread group 1-19,text,true,,130430,422,99,99,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,241,0,0
+1605526788135,1227,SLP: Search listing Page,200,OK,Amazon_Thread group 1-12,text,true,,132725,422,98,98,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,248,0,0
+1605526788240,1148,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-31,text,true,,72277,464,97,97,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,531,0,0
+1605526788119,1273,Amazon HomePage,200,OK,Amazon_Thread group 1-97,text,true,,103003,391,97,97,https://www.amazon.com/,687,0,51
+1605526788367,1035,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-33,text,true,,74561,464,97,97,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,450,0,0
+1605526787836,1587,Cart Page,200,OK,Amazon_Thread group 1-42,text,true,,75536,427,97,97,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,358,0,43
+1605526788232,1219,Today's Deals,200,OK,Amazon_Thread group 1-82,text,true,,109608,465,97,97,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,438,0,57
+1605526788000,1453,Today's Deals,200,OK,Amazon_Thread group 1-77,text,true,,112137,465,97,97,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,867,0,42
+1605526788392,1075,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-39,text,true,,71421,464,97,97,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,492,0,0
+1605526788404,1071,SLP: Search listing Page,200,OK,Amazon_Thread group 1-9,text,true,,129272,422,97,97,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,257,0,0
+1605526787382,2101,Cart Page,200,OK,Amazon_Thread group 1-29,text,true,,77734,427,96,96,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,935,0,33
+1605526788521,973,Cart Page,200,OK,Amazon_Thread group 1-22,text,true,,76849,427,96,96,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,353,0,31
+1605526788140,1358,Today's Deals,200,OK,Amazon_Thread group 1-80,text,true,,115433,465,96,96,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,772,0,48
+1605526788506,1026,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-46,text,true,,74036,464,96,96,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,440,0,0
+1605526788210,1366,Cart Page,200,OK,Amazon_Thread group 1-47,text,true,,73642,427,96,96,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,351,0,39
+1605526788268,1309,Amazon HomePage,200,OK,Amazon_Thread group 1-100,text,true,,97518,391,96,96,https://www.amazon.com/,293,0,50
+1605526788550,1031,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-48,text,true,,73968,464,96,96,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,446,0,0
+1605526788424,1176,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-45,text,true,,71438,464,96,96,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,590,0,0
+1605526788058,1550,Today's Deals,200,OK,Amazon_Thread group 1-59,text,true,,103129,465,96,96,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,848,0,45
+1605526788262,1346,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-24,text,true,,74475,464,96,96,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,543,0,0
+1605526788209,1448,Today's Deals,200,OK,Amazon_Thread group 1-81,text,true,,113975,465,96,96,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,858,0,41
+1605526788197,1486,Cart Page,200,OK,Amazon_Thread group 1-41,text,true,,74731,427,96,96,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,362,0,38
+1605526788663,1028,Today's Deals,200,OK,Amazon_Thread group 1-89,text,true,,109166,465,96,96,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,440,0,35
+1605526788663,1044,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-34,text,true,,71433,464,96,96,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,460,0,0
+1605526788750,967,Cart Page,200,OK,Amazon_Thread group 1-60,text,true,,75098,427,96,96,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,352,0,44
+1605526788665,1078,SLP: Search listing Page,200,OK,Amazon_Thread group 1-25,text,true,,128455,422,96,96,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,241,0,0
+1605526788661,1082,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-18,text,true,,74443,464,96,96,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,499,0,0
+1605526788768,978,Cart Page,200,OK,Amazon_Thread group 1-64,text,true,,74097,427,95,95,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,366,0,44
+1605526788730,1037,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-30,text,true,,74323,464,95,95,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,451,0,0
+1605526788711,1075,SLP: Search listing Page,200,OK,Amazon_Thread group 1-2,text,true,,129444,422,95,95,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,238,0,0
+1605526788061,1730,Cart Page,200,OK,Amazon_Thread group 1-58,text,true,,79401,427,94,94,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,748,0,43
+1605526788169,1684,Amazon HomePage,200,OK,Amazon_Thread group 1-98,text,true,,99659,391,94,94,https://www.amazon.com/,318,0,47
+1605526788709,1178,SLP: Search listing Page,200,OK,Amazon_Thread group 1-4,text,true,,136224,422,94,94,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,247,0,0
+1605526788555,1334,Today's Deals,200,OK,Amazon_Thread group 1-88,text,true,,113476,465,93,93,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,747,0,43
+1605526788864,1035,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-35,text,true,,74750,464,93,93,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,450,0,0
+1605526788590,1337,Cart Page,200,OK,Amazon_Thread group 1-61,text,true,,77611,427,93,93,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,358,0,39
+1605526788070,1857,Amazon HomePage,200,OK,Amazon_Thread group 1-96,text,true,,98467,391,93,93,https://www.amazon.com/,293,0,50
+1605526788793,1144,SLP: Search listing Page,200,OK,Amazon_Thread group 1-16,text,true,,130142,422,93,93,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,244,0,0
+1605526788530,1432,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-11,text,true,,71653,464,92,92,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,458,0,0
+1605526788960,1019,Cart Page,200,OK,Amazon_Thread group 1-68,text,true,,76543,427,92,92,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,354,0,36
+1605526789035,947,SLP: Search listing Page,200,OK,Amazon_Thread group 1-1,text,true,,138382,422,92,92,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,241,0,0
+1605526788454,1532,Cart Page,200,OK,Amazon_Thread group 1-43,text,true,,76503,427,91,91,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,359,0,47
+1605526786892,3101,Today's Deals,200,OK,Amazon_Thread group 1-55,text,true,,119580,465,91,91,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,1348,0,38
+1605526788533,1468,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-37,text,true,,71168,464,91,91,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,493,0,0
+1605526788967,1065,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-38,text,true,,72436,464,91,91,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,452,0,0
+1605526788891,1145,Today's Deals,200,OK,Amazon_Thread group 1-95,text,true,,107429,465,91,91,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,446,0,70
+1605526788915,1127,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-36,text,true,,74699,464,91,91,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,418,0,0
+1605526789055,997,Today's Deals,200,OK,Amazon_Thread group 1-67,text,true,,109091,465,91,91,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,410,0,37
+1605526789064,1008,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-56,text,true,,74429,464,91,91,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,426,0,0
+1605526788042,2035,Today's Deals,200,OK,Amazon_Thread group 1-78,text,true,,115031,465,91,91,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,866,0,38
+1605526789095,987,Cart Page,200,OK,Amazon_Thread group 1-79,text,true,,77378,427,91,91,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,387,0,58
+1605526788735,1376,SLP: Search listing Page,200,OK,Amazon_Thread group 1-7,text,true,,130210,422,91,91,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,253,0,0
+1605526788928,1185,Cart Page,200,OK,Amazon_Thread group 1-71,text,true,,79334,427,90,90,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,352,0,43
+1605526789299,816,Cart Page,200,OK,Amazon_Thread group 1-74,text,true,,76721,427,90,90,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,413,0,54
+1605526789082,1041,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-49,text,true,,73958,464,90,90,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,456,0,0
+1605526789141,1003,Cart Page,200,OK,Amazon_Thread group 1-57,text,true,,73916,427,90,90,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,361,0,46
+1605526789026,1129,Cart Page,200,OK,Amazon_Thread group 1-66,text,true,,73910,427,90,90,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,349,0,39
+1605526789115,1047,Cart Page,200,OK,Amazon_Thread group 1-72,text,true,,76540,427,90,90,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,372,0,58
+1605526789026,1164,SLP: Search listing Page,200,OK,Amazon_Thread group 1-26,text,true,,141250,422,90,90,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,258,0,0
+1605526788833,1367,Today's Deals,200,OK,Amazon_Thread group 1-86,text,true,,112170,465,89,89,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,775,0,38
+1605526788976,1226,SLP: Search listing Page,200,OK,Amazon_Thread group 1-21,text,true,,132865,422,89,89,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,241,0,0
+1605526788757,1447,Cart Page,200,OK,Amazon_Thread group 1-70,text,true,,78052,427,88,88,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,745,0,37
+1605526789025,1191,SLP: Search listing Page,200,OK,Amazon_Thread group 1-5,text,true,,142307,422,88,88,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,237,0,0
+1605526789065,1183,SLP: Search listing Page,200,OK,Amazon_Thread group 1-27,text,true,,132203,422,87,87,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,242,0,0
+1605526789008,1249,SLP: Search listing Page,200,OK,Amazon_Thread group 1-3,text,true,,129309,422,86,86,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,237,0,0
+1605526788892,1412,Today's Deals,200,OK,Amazon_Thread group 1-75,text,true,,115617,465,85,85,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,822,0,69
+1605526789207,1102,Cart Page,200,OK,Amazon_Thread group 1-73,text,true,,76595,427,85,85,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,377,0,41
+1605526787870,2447,Amazon HomePage,200,OK,Amazon_Thread group 1-92,text,true,,97287,391,85,85,https://www.amazon.com/,891,0,58
+1605526789220,1107,Cart Page,200,OK,Amazon_Thread group 1-62,text,true,,78693,427,85,85,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,359,0,40
+1605526789225,1108,Cart Page,200,OK,Amazon_Thread group 1-85,text,true,,74710,427,85,85,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,352,0,41
+1605526787598,2735,Today's Deals,200,OK,Amazon_Thread group 1-69,text,true,,109734,465,85,85,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,1033,0,54
+1605526787918,2431,Amazon HomePage,200,OK,Amazon_Thread group 1-93,text,true,,104532,391,85,85,https://www.amazon.com/,870,0,34
+1605526789266,1091,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-44,text,true,,72059,464,85,85,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,392,0,0
+1605526789130,1241,SLP: Search listing Page,200,OK,Amazon_Thread group 1-32,text,true,,135490,422,85,85,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,242,0,0
+1605526789393,987,Today's Deals,200,OK,Amazon_Thread group 1-97,text,true,,109136,465,84,84,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,404,0,35
+1605526789333,1077,Cart Page,200,OK,Amazon_Thread group 1-63,text,true,,76362,427,84,84,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,354,0,47
+1605526789087,1329,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-40,text,true,,71591,464,84,84,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,546,0,0
+1605526789348,1081,Cart Page,200,OK,Amazon_Thread group 1-76,text,true,,75744,427,84,84,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,352,0,40
+1605526788886,1544,SLP: Search listing Page,200,OK,Amazon_Thread group 1-28,text,true,,129860,422,84,84,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,632,0,0
+1605526789388,1052,SLP: Search listing Page,200,OK,Amazon_Thread group 1-31,text,true,,137273,422,83,83,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,245,0,0
+1605526789090,1378,Today's Deals,200,OK,Amazon_Thread group 1-91,text,true,,115914,465,82,82,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,787,0,67
+1605526789294,1174,Today's Deals,200,OK,Amazon_Thread group 1-87,text,true,,109363,465,82,82,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,590,0,41
+1605526789454,1022,Cart Page,200,OK,Amazon_Thread group 1-77,text,true,,76379,427,82,82,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,382,0,43
+1605526788460,2017,Cart Page,200,OK,Amazon_Thread group 1-53,text,true,,73779,427,82,82,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,1346,0,41
+1605526789533,984,SLP: Search listing Page,200,OK,Amazon_Thread group 1-46,text,true,,125699,422,82,82,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,261,0,0
+1605526788898,1630,SLP: Search listing Page,200,OK,Amazon_Thread group 1-8,text,true,,129863,422,81,81,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,260,0,0
+1605526789215,1315,SLP: Search listing Page,200,OK,Amazon_Thread group 1-13,text,true,,131652,422,80,80,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,251,0,0
+1605526789452,1095,Cart Page,200,OK,Amazon_Thread group 1-82,text,true,,77177,427,79,79,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,360,0,42
+1605526789483,1065,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-29,text,true,,73787,464,79,79,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,457,0,0
+1605526789424,1136,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-42,text,true,,73850,464,79,79,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,473,0,0
+1605526789221,1391,Cart Page,200,OK,Amazon_Thread group 1-51,text,true,,75318,427,79,79,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,741,0,45
+1605526789609,1005,Cart Page,200,OK,Amazon_Thread group 1-59,text,true,,75243,427,79,79,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,347,0,34
+1605526789577,1053,Today's Deals,200,OK,Amazon_Thread group 1-100,text,true,,109267,465,79,79,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,413,0,35
+1605526789467,1177,SLP: Search listing Page,200,OK,Amazon_Thread group 1-39,text,true,,131722,422,79,79,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,255,0,0
+1605526789499,1145,Cart Page,200,OK,Amazon_Thread group 1-80,text,true,,76843,427,79,79,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,389,0,77
+1605526789601,1051,SLP: Search listing Page,200,OK,Amazon_Thread group 1-45,text,true,,130978,422,78,78,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,264,0,0
+1605526789495,1172,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-22,text,true,,73805,464,77,77,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,585,0,0
+1605526789348,1334,Cart Page,200,OK,Amazon_Thread group 1-50,text,true,,76272,427,77,77,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,357,0,37
+1605526789315,1378,Today's Deals,200,OK,Amazon_Thread group 1-99,text,true,,113920,465,77,77,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,791,0,53
+1605526789691,1007,Cart Page,200,OK,Amazon_Thread group 1-89,text,true,,73902,427,77,77,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,358,0,49
+1605526789350,1362,Cart Page,200,OK,Amazon_Thread group 1-84,text,true,,78296,427,77,77,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,357,0,38
+1605526789707,1025,SLP: Search listing Page,200,OK,Amazon_Thread group 1-34,text,true,,129573,422,77,77,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,241,0,0
+1605526789657,1129,Cart Page,200,OK,Amazon_Thread group 1-81,text,true,,75958,427,76,76,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,385,0,48
+1605526789319,1489,Cart Page,200,OK,Amazon_Thread group 1-65,text,true,,76365,427,76,76,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,511,0,47
+1605526789581,1265,SLP: Search listing Page,200,OK,Amazon_Thread group 1-48,text,true,,132662,422,76,76,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,245,0,0
+1605526789927,927,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-61,text,true,,72055,464,75,75,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,453,0,0
+1605526789899,1030,SLP: Search listing Page,200,OK,Amazon_Thread group 1-35,text,true,,130854,422,75,75,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,247,0,0
+1605526789979,955,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-68,text,true,,72614,464,74,74,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,532,0,0
+1605526789927,1007,Today's Deals,200,OK,Amazon_Thread group 1-96,text,true,,107101,465,74,74,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,381,0,39
+1605526789288,1651,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-54,text,true,,71802,464,74,74,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,481,0,0
+1605526789993,998,Cart Page,200,OK,Amazon_Thread group 1-55,text,true,,79146,427,74,74,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,364,0,45
+1605526789229,1765,Today's Deals,200,OK,Amazon_Thread group 1-94,text,true,,114381,465,74,74,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,765,0,44
+1605526789576,1423,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-47,text,true,,74631,464,74,74,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,448,0,0
+1605526789225,1809,Today's Deals,200,OK,Amazon_Thread group 1-90,text,true,,109152,465,74,74,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,422,0,41
+1605526790052,983,Cart Page,200,OK,Amazon_Thread group 1-67,text,true,,79129,427,74,74,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,353,0,39
+1605526789768,1294,SLP: Search listing Page,200,OK,Amazon_Thread group 1-30,text,true,,136752,422,74,74,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,236,0,0
+1605526789683,1403,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-41,text,true,,74663,464,73,73,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,638,0,0
+1605526790033,1080,SLP: Search listing Page,200,OK,Amazon_Thread group 1-38,text,true,,133641,422,73,73,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,271,0,0
+1605526790082,1048,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-79,text,true,,71609,464,72,72,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,460,0,0
+1605526790042,1089,SLP: Search listing Page,200,OK,Amazon_Thread group 1-36,text,true,,135746,422,72,72,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,241,0,0
+1605526790073,1062,SLP: Search listing Page,200,OK,Amazon_Thread group 1-56,text,true,,128874,422,71,71,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,245,0,0
+1605526790002,1157,SLP: Search listing Page,200,OK,Amazon_Thread group 1-37,text,true,,131971,422,70,70,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,240,0,0
+1605526790077,1082,Cart Page,200,OK,Amazon_Thread group 1-78,text,true,,76314,427,70,70,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,364,0,42
+1605526790115,1060,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-74,text,true,,74524,464,69,69,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,473,0,0
+1605526789747,1433,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-64,text,true,,74770,464,69,69,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,847,0,0
+1605526790113,1086,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-71,text,true,,74072,464,69,69,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,502,0,0
+1605526789717,1487,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-60,text,true,,71250,464,69,69,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,512,0,0
+1605526790145,1074,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-57,text,true,,72760,464,69,69,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,489,0,0
+1605526789792,1452,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-58,text,true,,73895,464,69,69,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,461,0,0
+1605526790205,1049,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-70,text,true,,74483,464,69,69,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,463,0,0
+1605526790201,1060,Cart Page,200,OK,Amazon_Thread group 1-86,text,true,,75740,427,69,69,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,375,0,52
+1605526789986,1313,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-43,text,true,,71660,464,69,69,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,464,0,0
+1605526790124,1202,SLP: Search listing Page,200,OK,Amazon_Thread group 1-49,text,true,,130902,422,69,69,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,248,0,0
+1605526789853,1483,Today's Deals,200,OK,Amazon_Thread group 1-98,text,true,,110671,465,68,68,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,440,0,41
+1605526789345,2001,SLP: Search listing Page,200,OK,Amazon_Thread group 1-23,text,true,,127478,422,68,68,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,244,0,0
+1605526789354,2010,SLP: Search listing Page,200,OK,Amazon_Thread group 1-17,text,true,,129332,422,67,67,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,254,0,0
+1605526790309,1055,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-73,text,true,,73946,464,67,67,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,470,0,0
+1605526790380,992,Cart Page,200,OK,Amazon_Thread group 1-97,text,true,,78037,427,66,66,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,373,0,45
+1605526790477,906,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-53,text,true,,71657,464,66,66,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,514,0,0
+1605526790333,1055,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-85,text,true,,74162,464,66,66,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,469,0,0
+1605526789192,2205,SLP: Search listing Page,200,OK,Amazon_Thread group 1-20,text,true,,128076,422,66,66,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,252,0,0
+1605526789111,2287,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-52,text,true,,74982,464,66,66,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,1116,0,0
+1605526790304,1097,Cart Page,200,OK,Amazon_Thread group 1-75,text,true,,78568,427,65,65,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,348,0,41
+1605526790162,1244,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-72,text,true,,74369,464,65,65,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,524,0,0
+1605526789016,2396,SLP: Search listing Page,200,OK,Amazon_Thread group 1-14,text,true,,134857,422,65,65,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,250,0,0
+1605526790036,1394,Cart Page,200,OK,Amazon_Thread group 1-95,text,true,,74738,427,64,64,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,342,0,42
+1605526790410,1023,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-63,text,true,,71617,464,64,64,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,582,0,0
+1605526788292,3145,Today's Deals,200,OK,Amazon_Thread group 1-83,text,true,,116513,465,64,64,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,1386,0,45
+1605526790327,1137,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-62,text,true,,74015,464,64,64,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,458,0,0
+1605526789962,1575,SLP: Search listing Page,200,OK,Amazon_Thread group 1-11,text,true,,131959,422,64,64,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,631,0,0
+1605526790644,903,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-80,text,true,,71263,464,63,63,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,494,0,0
+1605526790476,1071,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-77,text,true,,71738,464,63,63,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,465,0,0
+1605526789403,2194,SLP: Search listing Page,200,OK,Amazon_Thread group 1-33,text,true,,130424,422,63,63,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,243,0,0
+1605526790560,1060,SLP: Search listing Page,200,OK,Amazon_Thread group 1-42,text,true,,131437,422,62,62,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,238,0,0
+1605526790469,1207,Cart Page,200,OK,Amazon_Thread group 1-87,text,true,,79072,427,61,61,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,355,0,30
+1605526790416,1268,SLP: Search listing Page,200,OK,Amazon_Thread group 1-40,text,true,,132246,422,61,61,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,239,0,0
+1605526790698,989,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-89,text,true,,74849,464,60,60,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,476,0,0
+1605526788516,3175,SLP: Search listing Page,200,OK,Amazon_Thread group 1-15,text,true,,133056,422,60,60,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,833,0,0
+1605526790547,1148,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-82,text,true,,74512,464,59,59,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,561,0,0
+1605526790317,1382,Today's Deals,200,OK,Amazon_Thread group 1-92,text,true,,115661,465,59,59,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,793,0,44
+1605526790630,1071,Cart Page,200,OK,Amazon_Thread group 1-100,text,true,,76277,427,59,59,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,361,0,41
+1605526789327,2391,SLP: Search listing Page,200,OK,Amazon_Thread group 1-6,text,true,,125627,422,59,59,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,248,0,0
+1605526790712,1034,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-84,text,true,,71863,464,58,58,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,450,0,0
+1605526790693,1053,Cart Page,200,OK,Amazon_Thread group 1-99,text,true,,77392,427,58,58,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,353,0,38
+1605526790469,1337,Cart Page,200,OK,Amazon_Thread group 1-91,text,true,,76613,427,58,58,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,356,0,34
+1605526790349,1492,Today's Deals,200,OK,Amazon_Thread group 1-93,text,true,,113721,465,58,58,https://www.amazon.com/international-sales-offers/b/?ie=UTF8&node=15529609011&ref_=nav_cs_gb_intl,900,0,37
+1605526790615,1250,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-59,text,true,,74595,464,58,58,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,448,0,0
+1605526791036,836,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-67,text,true,,73955,464,58,58,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,404,0,0
+1605526790809,1065,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-65,text,true,,71814,464,58,58,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,477,0,0
+1605526790333,1576,Cart Page,200,OK,Amazon_Thread group 1-69,text,true,,76768,427,58,58,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,938,0,42
+1605526790855,1096,SLP: Search listing Page,200,OK,Amazon_Thread group 1-61,text,true,,131224,422,58,58,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,242,0,0
+1605526789609,2385,SLP: Search listing Page,200,OK,Amazon_Thread group 1-24,text,true,,135303,422,57,57,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,237,0,0
+1605526790935,1078,Cart Page,200,OK,Amazon_Thread group 1-96,text,true,,78839,427,56,56,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,420,0,96
+1605526790992,1053,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-55,text,true,,71533,464,56,56,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,470,0,0
+1605526790430,1619,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-76,text,true,,71917,464,56,56,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,501,0,0
+1605526790999,1121,SLP: Search listing Page,200,OK,Amazon_Thread group 1-47,text,true,,130962,422,56,56,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,237,0,0
+1605526790682,1442,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-50,text,true,,73699,464,55,55,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,467,0,0
+1605526791205,949,SLP: Search listing Page,200,OK,Amazon_Thread group 1-60,text,true,,136618,422,55,55,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,262,0,0
+1605526789743,2411,SLP: Search listing Page,200,OK,Amazon_Thread group 1-18,text,true,,133539,422,55,55,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,260,0,0
+1605526791130,1030,SLP: Search listing Page,200,OK,Amazon_Thread group 1-79,text,true,,128454,422,53,53,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,243,0,0
+1605526791087,1073,SLP: Search listing Page,200,OK,Amazon_Thread group 1-41,text,true,,133484,422,53,53,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,243,0,0
+1605526791180,1043,SLP: Search listing Page,200,OK,Amazon_Thread group 1-64,text,true,,127185,422,51,51,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,255,0,0
+1605526791388,861,SLP: Search listing Page,200,OK,Amazon_Thread group 1-85,text,true,,130034,422,50,50,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,240,0,0
+1605526790156,2100,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-66,text,true,,72371,464,49,49,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,1058,0,0
+1605526791373,915,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-97,text,true,,71131,464,49,49,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,463,0,0
+1605526791255,1034,SLP: Search listing Page,200,OK,Amazon_Thread group 1-70,text,true,,128558,422,49,49,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,247,0,0
+1605526791244,1047,SLP: Search listing Page,200,OK,Amazon_Thread group 1-58,text,true,,131571,422,48,48,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,241,0,0
+1605526791159,1141,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-78,text,true,,74468,464,47,47,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,525,0,0
+1605526791261,1045,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-86,text,true,,73563,464,47,47,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,459,0,0
+1605526789889,2420,Cart Page,200,OK,Amazon_Thread group 1-88,text,true,,75607,427,47,47,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,1315,0,38
+1605526790667,1656,SLP: Search listing Page,200,OK,Amazon_Thread group 1-22,text,true,,135360,422,47,47,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,324,0,0
+1605526791365,978,SLP: Search listing Page,200,OK,Amazon_Thread group 1-73,text,true,,130673,422,46,46,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,237,0,0
+1605526790939,1409,SLP: Search listing Page,200,OK,Amazon_Thread group 1-54,text,true,,130114,422,45,45,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,242,0,0
+1605526791337,1048,Cart Page,200,OK,Amazon_Thread group 1-98,text,true,,74365,427,44,44,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,377,0,51
+1605526790548,1860,SLP: Search listing Page,200,OK,Amazon_Thread group 1-29,text,true,,130665,422,44,44,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,1034,0,0
+1605526791384,1097,SLP: Search listing Page,200,OK,Amazon_Thread group 1-53,text,true,,129002,422,43,43,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,242,0,0
+1605526791464,1019,SLP: Search listing Page,200,OK,Amazon_Thread group 1-62,text,true,,134720,422,42,42,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,237,0,0
+1605526791036,1523,Cart Page,200,OK,Amazon_Thread group 1-90,text,true,,78336,427,41,41,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,354,0,43
+1605526791437,1127,Cart Page,200,OK,Amazon_Thread group 1-83,text,true,,75683,427,41,41,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,369,0,52
+1605526791547,1034,SLP: Search listing Page,200,OK,Amazon_Thread group 1-80,text,true,,129662,422,41,41,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,242,0,0
+1605526791547,1045,SLP: Search listing Page,200,OK,Amazon_Thread group 1-77,text,true,,134749,422,40,40,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,244,0,0
+1605526791200,1420,SLP: Search listing Page,200,OK,Amazon_Thread group 1-71,text,true,,138820,422,39,39,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,239,0,0
+1605526791701,953,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-100,text,true,,74556,464,38,38,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,462,0,0
+1605526791699,1037,Cart Page,200,OK,Amazon_Thread group 1-92,text,true,,79569,427,38,38,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,346,0,33
+1605526791430,1308,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-95,text,true,,74434,464,38,38,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,527,0,0
+1605526790357,2384,SLP: Search listing Page,200,OK,Amazon_Thread group 1-44,text,true,,124200,422,38,38,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,238,0,0
+1605526791687,1101,SLP: Search listing Page,200,OK,Amazon_Thread group 1-89,text,true,,132203,422,37,37,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,240,0,0
+1605526791695,1113,SLP: Search listing Page,200,OK,Amazon_Thread group 1-82,text,true,,130156,422,36,36,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,242,0,0
+1605526790613,2212,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-51,text,true,,74338,464,35,35,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,1042,0,0
+1605526791402,1426,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-75,text,true,,73983,464,35,35,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,457,0,0
+1605526791842,994,Cart Page,200,OK,Amazon_Thread group 1-93,text,true,,76512,427,35,35,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,349,0,43
+1605526791219,1653,SLP: Search listing Page,200,OK,Amazon_Thread group 1-57,text,true,,129102,422,35,35,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,833,0,0
+1605526790786,2105,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-81,text,true,,71386,464,34,34,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,1025,0,0
+1605526791875,1030,SLP: Search listing Page,200,OK,Amazon_Thread group 1-65,text,true,,128839,422,34,34,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,248,0,0
+1605526791300,1607,SLP: Search listing Page,200,OK,Amazon_Thread group 1-43,text,true,,127842,422,33,33,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,240,0,0
+1605526791873,1124,SLP: Search listing Page,200,OK,Amazon_Thread group 1-67,text,true,,131032,422,32,32,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,235,0,0
+1605526791865,1146,SLP: Search listing Page,200,OK,Amazon_Thread group 1-59,text,true,,137022,422,31,31,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,254,0,0
+1605526791398,1613,SLP: Search listing Page,200,OK,Amazon_Thread group 1-52,text,true,,126463,422,31,31,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,243,0,0
+1605526791434,1618,SLP: Search listing Page,200,OK,Amazon_Thread group 1-63,text,true,,135808,422,29,29,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,834,0,0
+1605526791806,1253,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-91,text,true,,72162,464,28,28,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,471,0,0
+1605526792046,1022,SLP: Search listing Page,200,OK,Amazon_Thread group 1-55,text,true,,133281,422,28,28,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,239,0,0
+1605526792124,945,SLP: Search listing Page,200,OK,Amazon_Thread group 1-50,text,true,,130476,422,27,27,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,246,0,0
+1605526792050,1031,SLP: Search listing Page,200,OK,Amazon_Thread group 1-76,text,true,,136755,422,26,26,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,245,0,0
+1605526790994,2127,Cart Page,200,OK,Amazon_Thread group 1-94,text,true,,78301,427,25,25,https://www.amazon.com/gp/cart/view.html?ref_=nav_cart,957,0,60
+1605526792014,1177,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-96,text,true,,71891,464,25,25,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,483,0,0
+1605526791747,1444,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-99,text,true,,73972,464,25,25,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,472,0,0
+1605526792309,986,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-88,text,true,,71290,464,25,25,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,401,0,0
+1605526791909,1403,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-69,text,true,,72680,464,25,25,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,428,0,0
+1605526790935,2400,SLP: Search listing Page,200,OK,Amazon_Thread group 1-68,text,true,,124850,422,25,25,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,239,0,0
+1605526792300,1064,SLP: Search listing Page,200,OK,Amazon_Thread group 1-78,text,true,,136950,422,24,24,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,236,0,0
+1605526792256,1179,SLP: Search listing Page,200,OK,Amazon_Thread group 1-66,text,true,,128415,422,23,23,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,233,0,0
+1605526792560,890,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-90,text,true,,73775,464,22,22,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,452,0,0
+1605526792564,966,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-83,text,true,,71186,464,22,22,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,508,0,0
+1605526792306,1258,SLP: Search listing Page,200,OK,Amazon_Thread group 1-86,text,true,,133113,422,22,22,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,246,0,0
+1605526791175,2542,SLP: Search listing Page,200,OK,Amazon_Thread group 1-74,text,true,,135967,422,21,21,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,252,0,0
+1605526792654,1101,SLP: Search listing Page,200,OK,Amazon_Thread group 1-100,text,true,,127148,422,20,20,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,238,0,0
+1605526792739,1069,SLP: Search listing Page,200,OK,Amazon_Thread group 1-95,text,true,,130961,422,19,19,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,261,0,0
+1605526792825,1062,SLP: Search listing Page,200,OK,Amazon_Thread group 1-51,text,true,,132867,422,18,18,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,238,0,0
+1605526791677,2244,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-87,text,true,,74572,464,17,17,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,1072,0,0
+1605526792386,1647,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-98,text,true,,74333,464,17,17,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,476,0,0
+1605526792829,1214,SLP: Search listing Page,200,OK,Amazon_Thread group 1-75,text,true,,131497,422,17,17,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,239,0,0
+1605526792836,1262,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-93,text,true,,75581,464,16,16,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,415,0,0
+1605526792892,1263,SLP: Search listing Page,200,OK,Amazon_Thread group 1-81,text,true,,124958,422,16,16,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,252,0,0
+1605526793295,1031,SLP: Search listing Page,200,OK,Amazon_Thread group 1-88,text,true,,126264,422,15,15,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,248,0,0
+1605526792737,1604,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-92,text,true,,74958,464,14,14,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,472,0,0
+1605526793313,1041,SLP: Search listing Page,200,OK,Amazon_Thread group 1-69,text,true,,129546,422,14,14,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,241,0,0
+1605526793191,1198,SLP: Search listing Page,200,OK,Amazon_Thread group 1-96,text,true,,136183,422,13,13,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,255,0,0
+1605526793122,1357,Category page: Smart Home/Television,200,OK,Amazon_Thread group 1-94,text,true,,71806,464,12,12,https://www.amazon.com/gp/browse.html?node=16713338011&ref_=nav_em_sbdshd_tv_video_0_2_7_10,381,0,0
+1605526792289,2191,SLP: Search listing Page,200,OK,Amazon_Thread group 1-97,text,true,,125881,422,12,12,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,241,0,0
+1605526791406,3169,SLP: Search listing Page,200,OK,Amazon_Thread group 1-72,text,true,,139903,422,11,11,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,830,0,0
+1605526793451,1216,SLP: Search listing Page,200,OK,Amazon_Thread group 1-90,text,true,,129992,422,10,10,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,238,0,0
+1605526791747,3031,SLP: Search listing Page,200,OK,Amazon_Thread group 1-84,text,true,,133995,422,9,9,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,829,0,0
+1605526793530,1282,SLP: Search listing Page,200,OK,Amazon_Thread group 1-83,text,true,,139720,422,8,8,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,239,0,0
+1605526794033,842,SLP: Search listing Page,200,OK,Amazon_Thread group 1-98,text,true,,127362,422,7,7,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,248,0,0
+1605526793922,1055,SLP: Search listing Page,200,OK,Amazon_Thread group 1-87,text,true,,134354,422,6,6,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,239,0,0
+1605526793060,2000,SLP: Search listing Page,200,OK,Amazon_Thread group 1-91,text,true,,128406,422,5,5,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,240,0,0
+1605526794098,1053,SLP: Search listing Page,200,OK,Amazon_Thread group 1-93,text,true,,126266,422,4,4,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,255,0,0
+1605526793192,1996,SLP: Search listing Page,200,OK,Amazon_Thread group 1-99,text,true,,133344,422,3,3,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,241,0,0
+1605526794342,1149,SLP: Search listing Page,200,OK,Amazon_Thread group 1-92,text,true,,123828,422,2,2,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,240,0,0
+1605526794479,1658,SLP: Search listing Page,200,OK,Amazon_Thread group 1-94,text,true,,130341,422,1,1,https://www.amazon.com/s?k=apple&ref=nb_sb_noss_2,246,0,0
