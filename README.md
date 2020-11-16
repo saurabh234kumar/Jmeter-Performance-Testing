@@ -16,8 +16,10 @@ page is too huge for the JMeter test client to download, or sometimes we are not
 of the response page, rather we just want to make sure the page is delivered. So here we used response code
 is 200 which means OK.
 
-
+------------------------------------HTML REPORT----------------------------------
 Amazon Home Page: JMeter HTML report generation
+
+Either download htmlReport.zip file from Jmeter-Performance-Testing repositery to view HTML report or follow below steps
 
 Basic steps of creating a JMeter file(.jmx) are as follows:
 Step 1: Thread group creation.
